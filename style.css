@@ -20,7 +20,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:##FF00FF;
+  color:#FF80FF;
 }
 a:focus {
   outline: thin dotted;
